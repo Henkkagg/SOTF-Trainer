@@ -12,3 +12,5 @@ R - Gives full nutrition
 U - Gives full rest
 
 T - When you hold a throwable item, one more is added to the stack. Can be used multiple times
+
+Z - Unhooks the input, basically deactivating the cheat (dll will still stay loaded)
