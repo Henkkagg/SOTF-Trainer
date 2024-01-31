@@ -1,7 +1,7 @@
 # SOTF Trainer
 An injectable dll to add the feeling of creative mode to Sons of the Forest. Unleash your creativity with endless wood, and never worry about your character getting tired again. Please don't use this in multiplayer.
 
-Any injector should work, here's one by me: [https://github.com/Henkkagg/loadlibrary_injector](https://github.com/Henkkagg/DLL-Loader).
+Any injector should work, here's one by me: https://github.com/Henkkagg/DLL-Loader.
 
 ## Controls
 
